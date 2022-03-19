@@ -18,7 +18,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/matrix-binary-code-PTBVMsYIOB0SBP4MVe" width="600" height="300"/>
 </div>
 
 ---
@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Samariddin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samariddin-sayfiddinov-670827200/)
 
 ---
 
