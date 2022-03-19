@@ -18,7 +18,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://giphy.com/gifs/matrix-binary-code-PTBVMsYIOB0SBP4MVe" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
