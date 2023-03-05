@@ -12,8 +12,8 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?SamariddinS=your-github-SamariddinS&style=flat-square&color=blue" alt=""/>
-  <h1>
-      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="300" viewBox="0 0 854 300">
+  
+	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="300" viewBox="0 0 854 300">
 	<g transform="translate(427, 150) scale(1, 1) translate(-427, -150)">
 		<defs>
 			<linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -35,7 +35,7 @@
 	<image width="130" height="90" x="72%" y="30%" xlink:href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" clip-path="url(#myCircle)" />
 </svg>
 
-  </h1>
+	
 </div>
 
 <!-- <div align="center">
