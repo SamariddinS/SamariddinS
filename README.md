@@ -12,30 +12,6 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?SamariddinS=your-github-SamariddinS&style=flat-square&color=blue" alt=""/>
-  
-	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="300" viewBox="0 0 854 300">
-	<g transform="translate(427, 150) scale(1, 1) translate(-427, -150)">
-		<defs>
-			<linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-				<stop offset="0%" stop-color="#43cea2"/><stop offset="100%" stop-color="#185a9d"/>
-			</linearGradient>
-			<clipPath id="myCircle">
-               <circle cx="100" cy="100" r="650" />
-            </clipPath>
-		</defs>
-
-		<path d="" fill="url(#linear)" opacity="0.4" >
-			<animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 220Q 213.5 260 427 230T 854 255L 854 0 Z;M0 0L 0 245Q 213.5 260 427 240T 854 230L 854 0 Z;M0 0L 0 265Q 213.5 235 427 265T 854 230L 854 0 Z;M0 0L 0 220Q 213.5 260 427 230T 854 255L 854 0 Z"></animate>
-		</path>
-		<path d="" fill="url(#linear)" opacity="0.4" >
-			<animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 235Q 213.5 280 427 250T 854 260L 854 0 Z;M0 0L 0 250Q 213.5 220 427 220T 854 240L 854 0 Z;M0 0L 0 245Q 213.5 225 427 250T 854 265L 854 0 Z;M0 0L 0 235Q 213.5 280 427 250T 854 260L 854 0 Z"></animate>
-		</path>
-	</g>
-	<text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%"  style="fill:#f7f5f5; font-size: 80px; font-weight: 700; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;" stroke="#none" stroke-width="1" > Hi There! </text>
-	<image width="130" height="90" x="72%" y="30%" xlink:href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" clip-path="url(#myCircle)" />
-</svg>
-
-	
 </div>
 
 <!-- <div align="center">
